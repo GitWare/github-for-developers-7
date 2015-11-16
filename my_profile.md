@@ -1,4 +1,0 @@
- - [x] **Name**: Michael Clancy
- - [x] **From**: Philadelphia, PA
- - [x] **Favorite food**: Sushi
- - [x] **Hobby**: Graphic Design
